@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/operadao" target="blank"><img src="https://img.shields.io/twitter/follow/operadao?logo=twitter&style=for-the-badge" alt="operadao" /></a> </p>
 
-- 💬 Ask me about **Tech, Decentralized Finance**
+- 💬 Ask me about **Tech, Decentralized Finance, Economics**
 - 📫 How to reach me **samopera@proton.me**
 - ⚡ Fun fact **I am a Problem solver**
 <p align="right">
