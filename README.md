@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samson Olakeye (aka SamOpera)</h1>
-<h3 align="center">Blockchain Developer | DeFi Economist | SDG Technologist</h3>
+<h1 align="center">Hi 👋, I'm Samson Olakeye (SamOpera)</h1>
+<h3 align="center">Blockchain Developer | Development Economist | Blockchain Solution for SDGs | Financial Inclusion Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="samopera" />
