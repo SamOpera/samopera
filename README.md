@@ -1,27 +1,74 @@
-<h1 align="center">Hi 👋, I'm SamOpera</h1>
-<h3 align="center">A passionate frontend Engineer and Blockchain Developer</h3>
+<h1 align="center">Hi 👋, I'm Samson Olakeye (aka SamOpera)</h1>
+<h3 align="center">Blockchain Developer | DeFi Economist | SDG Technologist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="samopera" /> </p>
-
-<p align="left"> <a href="https://twitter.com/operadao" target="blank"><img src="https://img.shields.io/twitter/follow/operadao?logo=twitter&style=for-the-badge" alt="operadao" /></a> </p>
-
-- 💬 Ask me about **Tech, Decentralized Finance, Economics**
-- 📫 How to reach me **samopera@proton.me**
-- ⚡ Fun fact **I am a Problem solver**
-<p align="right">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coder GIF 2" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="samopera" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/operadao" target="blank"><img src="https://img.shields.io/twitter/follow/operadao?logo=twitter&style=for-the-badge" alt="operadao" /></a>
+</p>
+
+---
+
+### 👨🏽‍💻 About Me
+
+- 🌍 **Based in Lagos, Nigeria**  
+- 💡 Passionate about **Decentralized Finance**, **Smart Contracts**, and **Inclusive Development**  
+- 🧠 Self-taught dev with background in **Economics (BSc)** and **Information Technology (MSc in progress)**  
+- 🔗 Focused on **Blockchain for Financial Inclusion (SDG 8)**  
+- 💼 Creator of [SmartClaim Insurance dApp](https://samopera.github.io/smartclaim) – reducing fraud and improving transparency in microinsurance  
+- 📫 Reach me: **samopera@proton.me**  
+- ⚡ Fun Fact: I believe code should uplift communities.
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/SamOpera/samopera/main/assets/dev-gif.gif" alt="Coding GIF" width="300"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/operadao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="operadao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samopera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samopera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18609730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18609730" height="30" width="40" /></a>
-<a href="https://medium.com/@samopera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samopera" height="30" width="40" /></a>
-<a href="https://discord.gg/923930547569446982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="923930547569446982" height="30" width="40" /></a>
+<a href="https://twitter.com/operadao" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="operadao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samsonolakeye" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samopera" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18609730" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a>
+<a href="https://medium.com/@samopera" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://discord.gg/923930547569446982" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samopera&show_icons=true&locale=en&layout=compact" alt="samopera" /></p>
+
+---
+
+### 🚀 Projects
+
+- 🔐 [SmartClaim dApp](https://github.com/SamOpera/smartclaim): Blockchain insurance app  
+- 🤖 [BUGEN Trading Bot](https://t.me/BugenTradingBot): Telegram bot for Solana token trading  
+- 🧮 [Solana Scaffold](https://github.com/SamOpera/solana-react-scafford): React + TypeScript starter for dApps  
+- 🧩 [Prodax Smart Contracts](https://github.com/SamOpera/contracts): Ethereum-based token architecture  
+- ⚙️ [Scroll zkEVM Contributions](https://github.com/SamOpera/scroll): Layer 2 learning & ecosystem tools  
+
+---
+
+> “Code is not just syntax — it’s a tool for equity, innovation, and transformation.”
+
