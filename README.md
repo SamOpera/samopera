@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/operadao" target="blank">
+  <a href="https://twitter.com/thesamopera" target="blank">
     <img src="https://img.shields.io/twitter/follow/operadao?logo=twitter&style=for-the-badge" alt="operadao" />
   </a>
 </p>
