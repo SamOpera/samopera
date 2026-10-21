@@ -20,7 +20,7 @@
 - 🧠 Self-taught dev with background in **Economics (BSc)** and **Information Technology (MSc in progress)**  
 - 🔗 Focused on **Blockchain for Financial Inclusion (SDG 8)**  
 - 💼 Creator of [SmartClaim Insurance dApp](https://samopera.github.io/smartclaim) – reducing fraud and improving transparency in microinsurance  
-- 📫 Reach me: **samopera@proton.me**  
+- 📫 Reach me: **dev@samsonolakeye.com**  
 - ⚡ Fun Fact: I believe code should uplift communities.
 
 <div align="center">
