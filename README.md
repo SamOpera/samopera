@@ -17,7 +17,7 @@
 
 - 🌍 **Olakeye Samson Kehinde**, based in **Lagos, Nigeria**
 - 🤖 Lead developer of [**4TOOL**](https://4tool.ai), an AI trading agent for Solana used by **1,500+ people**
-- 💡 I build **secure financial products**: Solidity smart contracts, DeFi tools and full-stack web apps
+- 💡 I build **secure financial products**: Solidity and Rust smart contracts, DeFi tools and full-stack web apps
 - 🔐 Built [**SmartClaim**](https://smartclaim.vercel.app), a decentralized insurance dApp where policies, claims and payouts run on an Ethereum smart contract
 - 🎓 BSc Economics, University of Lagos. Master of Information Technology (in progress), University of Lagos
 - 💼 Open to **software and blockchain engineering roles**, remote or on-site
@@ -46,6 +46,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
