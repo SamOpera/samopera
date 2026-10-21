@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/thesamopera" target="blank">
-    <img src="https://img.shields.io/twitter/follow/operadao?logo=twitter&style=for-the-badge" alt="operadao" />
+    <img src="https://img.shields.io/twitter/follow/thesamopera?logo=twitter&style=for-the-badge" alt="thesamopera" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/operadao" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/thesamopera" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/samsonolakeye" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/18609730" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://medium.com/@samopera" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
