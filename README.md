@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samson Olakeye (SamOpera)</h1>
-<h3 align="center">Founder of TechTribeDAO | Software & Blockchain Engineer</h3>
+<h3 align="center">Lead Developer at 4TOOL | Software & Blockchain Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,7 +16,7 @@
 ### 👨🏽‍💻 About Me
 
 - 🌍 **Olakeye Samson Kehinde**, based in **Lagos, Nigeria**
-- 🏗️ Founder of [**TechTribeDAO**](https://x.com/TechTribeDao), a global nonprofit developer community advancing Web3 and tech innovation
+- 🤖 Lead developer of [**4TOOL**](https://4tool.ai), an AI trading agent for Solana used by **1,500+ people**
 - 💡 I build **secure financial products**: Solidity smart contracts, DeFi tools and full-stack web apps
 - 🔐 Built [**SmartClaim**](https://smartclaim.vercel.app), a decentralized insurance dApp where policies, claims and payouts run on an Ethereum smart contract
 - 🎓 BSc Economics, University of Lagos. Master of Information Technology (in progress), University of Lagos
@@ -67,9 +67,12 @@
 
 ### 🚀 Projects
 
-- 🤖 [**4TOOL**](https://4tool.ai): AI trading agent for Solana on Telegram, with fast token snipes, autonomous and copy trading, and rewards for $4TOOL holders. I'm the lead developer
+- 🤖 [**4TOOL**](https://4tool.ai): AI trading agent for Solana on Telegram, used by 1,500+ people, with fast token snipes, autonomous and copy trading, and rewards for $4TOOL holders. I'm the lead developer
 - 🔐 [**SmartClaim**](https://github.com/SamOpera/smartclaim): decentralized insurance dApp built with Solidity, React and Ethers.js. [Live app](https://smartclaim.vercel.app)
+- ⛪ **TCN Bible Study Attendance**: QR check-in system live at The Covenant Nation, Iganmu, with class registers, follow-up lists, series reports and automatic birthday emails (Next.js, PostgreSQL)
+- 🗝️ [**Multizig**](https://github.com/SamOpera/Multizig): Ethereum multi-signature wallet. Payments only go out once enough owners approve, and can never run twice
 - 🏠 [**Land-Ledger**](https://github.com/SamOpera/Land-Ledger): blockchain land registration and verification, with a REST API documented in Swagger UI
+- 🎓 [**MIT1 Learning Platform**](https://www.mit1app.com.ng): exam prep used by about 280 University of Lagos MIT students
 - 🩺 [**CareBot**](https://github.com/SamOpera/CareBot): AI health assistant that explains symptoms in plain language. [Live app](https://care-bot-fk6o.vercel.app)
 - 🧮 [**Solana Scaffold**](https://github.com/SamOpera/solana-react-scafford): React and TypeScript starter for Solana dApps
 - 🧩 [**Prodax Smart Contracts**](https://github.com/SamOpera/contracts): Ethereum-based token architecture
