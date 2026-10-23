@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samson Olakeye (SamOpera)</h1>
-<h3 align="center">Lead Developer at 4TOOL | Software & Blockchain Engineer</h3>
+<h3 align="center">Economist turned Blockchain Engineer | Lead Developer at 4TOOL | Founder, TechTribeDAO</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,6 +17,7 @@
 
 - 🌍 **Olakeye Samson Kehinde**, based in **Lagos, Nigeria**
 - 🤖 Lead developer of [**4TOOL**](https://4tool.ai), an AI trading agent for Solana used by **1,500+ people**
+- 🏛️ Founder of [**TechTribeDAO**](https://x.com/TechTribeDao), a community for Web3 developers
 - 💡 I build **secure financial products**: Solidity and Rust smart contracts, DeFi tools and full-stack web apps
 - 🔐 Built [**SmartClaim**](https://smartclaim.vercel.app), a decentralized insurance dApp where policies, claims and payouts run on an Ethereum smart contract
 - 🎓 BSc Economics, University of Lagos. Master of Information Technology (in progress), University of Lagos
