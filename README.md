@@ -35,9 +35,23 @@ I studied **Economics** at the University of Lagos, then **Computer Science** at
 
 More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
-### ✍️ Writing
+### ✍️ Latest articles
 
-- [How I Built an Insurance Smart Contract That Can't Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2): solvency, pull payments and reentrancy, explained with the SmartClaim code
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an Insurance Smart Contract That Can't Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2)
+<!-- BLOG-POST-LIST:END -->
+
+All my writing: **[medium.com/@SamOpera](https://medium.com/@SamOpera)**
+
+---
+
+### 🤝 Community
+
+- 🏛️ Founded [**TechTribeDAO**](https://x.com/TechTribeDao), a community for Web3 developers
+- 🧑🏽‍🏫 I mentor and tutor new developers in full-stack web development: TypeScript, React, Next.js, Node.js and Git
+- 🎓 Elected class representative for my Master's class at the University of Lagos, where I built [MIT1](https://www.mit1app.com.ng), the exam-prep platform about 280 classmates use
+
+💬 **Ask me about:** Solidity security, Solana trading systems, smart contract design, and taking payments online in Nigeria
 
 ---
 
