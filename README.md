@@ -35,6 +35,10 @@ I studied **Economics** at the University of Lagos, then **Computer Science** at
 
 More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
+### ✍️ Writing
+
+- [How I Built an Insurance Smart Contract That Can't Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2): solvency, pull payments and reentrancy, explained with the SmartClaim code
+
 ---
 
 ### 🛠️ Stack
