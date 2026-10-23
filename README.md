@@ -37,8 +37,7 @@ More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
 ### ✍️ Latest articles
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Built an Insurance Smart Contract That Can't Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2)
+<!-- BLOG-POST-LIST:START -->- [How I Built an Insurance Smart Contract That Can’t Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2?source=rss-7d6da15862a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 All my writing: **[medium.com/@SamOpera](https://medium.com/@SamOpera)**
