@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samson Olakeye (SamOpera)</h1>
-<h3 align="center">Economist turned Blockchain Engineer | Lead Developer at 4TOOL | Founder, TechTribeDAO</h3>
+<h3 align="center">Blockchain Engineer | Economics + Computer Science | Lead Developer at 4TOOL | Founder, TechTribeDAO</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samopera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
