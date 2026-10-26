@@ -28,11 +28,11 @@ I studied **Economics** at the University of Lagos, then **Computer Science** at
 | [**4TOOL**](https://4tool.ai) | AI trading agent for Solana on Telegram: token snipes, autonomous and copy trading, take-profit and stop-loss. I lead development | Solana, Telegram |
 | [**SmartClaim**](https://github.com/SamOpera/Smartclaim) | Decentralized insurance. The contract reserves every policy's cover so the pool is always solvent, and pays each claim once. 16 tests, CI. [Live app](https://smartclaim.vercel.app) | Solidity, Hardhat, Next.js, ethers |
 | **TCN Bible Study Attendance** | QR check-in live at The Covenant Nation, Iganmu: class registers, follow-up lists, series reports, Excel and Word exports | Next.js, PostgreSQL |
-| [**Paystack + Flutterwave starter**](https://github.com/SamOpera/nextjs-paystack-flutterwave-starter) | Open-source Next.js checkout for Nigeria. Every payment is verified on the server, with signed webhooks and 16 tests. [Live demo](https://nextjs-paystack-flutterwave-starter.vercel.app) | Next.js, TypeScript, Vitest |
+| [**Paystack + Flutterwave starter**](https://github.com/SamOpera/nextjs-paystack-flutterwave-starter) | Open-source Next.js checkout for Nigeria. Every payment is verified on the server, with signed webhooks and 21 tests. [Live demo](https://nextjs-paystack-flutterwave-starter.vercel.app) | Next.js, TypeScript, Vitest |
 | [**Multizig**](https://github.com/SamOpera/Multizig) | Ethereum multi-signature wallet. Payments go out only when enough owners approve, and can never run twice | Solidity, Truffle |
-| [**Land-Ledger**](https://github.com/SamOpera/Land-Ledger) | On-chain land registry. Each parcel registers once, which blocks double sales. REST API in Swagger UI | Solidity, Node.js |
+| [**Land-Ledger**](https://github.com/SamOpera/Land-Ledger) | On-chain land title registry. Each survey plan registers once, which blocks double sales, and anyone can verify a title before paying. 27 tests, CI. [Live app](https://landedger.vercel.app) | Solidity, Hardhat, Next.js |
 | [**MIT1**](https://www.mit1app.com.ng) | Exam-prep platform used by about 280 University of Lagos MIT students | Next.js, Prisma, PostgreSQL |
-| [**CareBot**](https://github.com/SamOpera/CareBot) | AI health assistant that explains symptoms in plain language and says when to see a doctor | React, LLM API |
+| [**CareBot**](https://github.com/SamOpera/CareBot) | AI health assistant that explains symptoms in plain language, catches emergencies by rule, and says when to see a doctor. [Live app](https://care-bot-fk6o.vercel.app) | Next.js, Gemini |
 
 More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
