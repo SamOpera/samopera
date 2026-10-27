@@ -32,7 +32,7 @@ I studied **Economics** at the University of Lagos, then **Computer Science** at
 | [**Multizig**](https://github.com/SamOpera/Multizig) | Ethereum multi-signature wallet. Payments go out only when enough owners approve, and can never run twice | Solidity, Truffle |
 | [**Land-Ledger**](https://github.com/SamOpera/Land-Ledger) | On-chain land title registry. Each survey plan registers once, which blocks double sales, and anyone can verify a title before paying. 27 tests, CI. [Live app](https://landedger.vercel.app) | Solidity, Hardhat, Next.js |
 | [**MIT1**](https://www.mit1app.com.ng) | Exam-prep platform used by about 280 University of Lagos MIT students | Next.js, Prisma, PostgreSQL |
-| [**CareBot**](https://github.com/SamOpera/CareBot) | AI health assistant that explains symptoms in plain language, catches emergencies by rule, and says when to see a doctor. [Live app](https://care-bot-fk6o.vercel.app) | Next.js, Gemini |
+| [**CareBot**](https://github.com/SamOpera/CareBot) | AI health assistant built for HELBRED Initiative, a health non-profit. Explains symptoms in plain language, catches emergencies by rule, and says when to see a doctor. [Live app](https://care-bot-fk6o.vercel.app) | Next.js, Gemini |
 
 More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
