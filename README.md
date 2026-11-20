@@ -38,8 +38,11 @@ More, with demos: **[samsonolakeye.com](https://samsonolakeye.com)**
 
 ### ✍️ Latest articles
 
-<!-- BLOG-POST-LIST:START -->- [Never Trust the Redirect: Verifying Paystack and Flutterwave Payments on the Server](https://medium.com/@SamOpera/never-trust-the-redirect-verifying-paystack-and-flutterwave-payments-on-the-server-77a5aff8ade0?source=rss-7d6da15862a0------2)
-- [How I Built an Insurance Smart Contract That Can’t Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2?source=rss-7d6da15862a0------2)
+<!-- BLOG-POST-LIST:START -->- [Rules Before Models: Building a Health Assistant That Knows When to Stop](https://medium.com/@SamOpera/rules-before-models-building-a-health-assistant-that-knows-when-to-stop-b9c2048b9fb9)
+- [Right About the Symptom, Wrong About the Fix: Triaging a Bug Report in viem](https://medium.com/@SamOpera/right-about-the-symptom-wrong-about-the-fix-triaging-a-bug-report-in-viem-5779dc7fe4d2)
+- [One Plot, One Title: Designing a Smart Contract That Stops Double Land Sales](https://medium.com/@SamOpera/one-plot-one-title-designing-a-smart-contract-that-stops-double-land-sales-6d4a4a99381a)
+- [Never Trust the Redirect: Verifying Paystack and Flutterwave Payments on the Server](https://medium.com/@SamOpera/never-trust-the-redirect-verifying-paystack-and-flutterwave-payments-on-the-server-77a5aff8ade0)
+- [How I Built an Insurance Smart Contract That Can’t Run Out of Money](https://medium.com/@SamOpera/how-i-built-an-insurance-smart-contract-that-cant-run-out-of-money-1845eabc9af2)
 <!-- BLOG-POST-LIST:END -->
 
 All my writing: **[medium.com/@SamOpera](https://medium.com/@SamOpera)**
